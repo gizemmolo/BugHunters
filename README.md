@@ -1,2 +1,2 @@
 Contributors:
-<Gizem MOLO>
+Gizem MOLO
